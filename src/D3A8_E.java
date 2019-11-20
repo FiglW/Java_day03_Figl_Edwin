@@ -19,7 +19,7 @@ public class D3A8_E {
 
         }
 
-        System.out.println("-------------\nYour grades:");
+        System.out.println("-------------\n*** YOUR GRADES ***");
 
         for(int i=0; i<subject.length; i++) {
             System.out.println(subject[i] + "\t ...   " + grades[i]);
