@@ -28,8 +28,6 @@ public class D3A3_E {
 
         String Splitline = "arg1, arg2, arg3, arg4";
         String[] Splitted = Splitline.split(",");
-
         for(int i=0; i<Splitted.length; i++) System.out.println(Splitted[i].trim());
-
     }
 }

@@ -15,6 +15,6 @@ public class D3A4_E {
 
         System.out.print(fullName.charAt(0));
 
-
+        System.out.println(fullName.substring(fullName.indexOf(" ")+1, fullName.indexOf(" ")+2));
     }
 }
